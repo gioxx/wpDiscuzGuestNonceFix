@@ -91,10 +91,3 @@ before the plugin loads, for example in `wp-config.php` or another must-use boot
 ## License
 
 MIT. See [LICENSE](LICENSE).
-
-## Author
-
-Giovanni Francesco Solone
-
-- Site: <https://gioxx.org>
-- GitHub: <https://github.com/gioxx>
