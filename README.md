@@ -14,9 +14,13 @@ Repository: <https://github.com/gioxx/wpDiscuzGuestNonceFix>
 
 This plugin was created as a practical workaround after investigating reports similar to these support threads:
 
-- <https://wpdiscuz.com/community/troubleshooting/issues-with-nonce/>
-- <https://wpdiscuz.com/community/plugin-update-issues/nonce-is-invalid-error-2/>
 - <https://wordpress.org/support/topic/error-nonce-is-invalid-when-trying-to-post-comments/>
+- <https://wpdiscuz.com/community/bug-reports/nonce-is-invalid-error-in-v7-6-47-with-cloudflare>
+- <https://wpdiscuz.com/community/plugin-update-issues/nonce-is-invalid-error-2/>
+- <https://wpdiscuz.com/community/troubleshooting/issues-with-nonce/>
+
+> [!WARNING]  
+> (And actually, if you search the official forum, several other threads come up: [wpdiscuz.com/community/?wpfs=nonce](https://wpdiscuz.com/community/?wpfs=nonce))
 
 ## What It Does
 
