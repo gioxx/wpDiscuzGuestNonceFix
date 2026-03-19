@@ -15,6 +15,7 @@ Repository: <https://github.com/gioxx/wpDiscuzGuestNonceFix>
 This plugin was created as a practical workaround after investigating reports similar to these support threads:
 
 - <https://wpdiscuz.com/community/troubleshooting/issues-with-nonce/>
+- <https://wpdiscuz.com/community/plugin-update-issues/nonce-is-invalid-error-2/>
 - <https://wordpress.org/support/topic/error-nonce-is-invalid-when-trying-to-post-comments/>
 
 ## What It Does
@@ -70,7 +71,7 @@ The plugin header already includes the metadata required by Git Updater:
 
 ## Usage
 
-Activate the plugin and test guest comment submission again.
+Activate the plugin, **clear your browser cache as well as the cache for your WordPress installation** (if you're using any kind of CDN/cache, such as Cloudflare, Bunny, or others) and test guest comment submission again.
 
 If the workaround is active, an admin notice will appear in the dashboard. The notice is dismissible and the dismissal is stored per user.
 
